@@ -1,4 +1,4 @@
-package edu.iu2.customerservice;
+package edu.iu.c322.customerservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package edu.iu2.customerservice.controller;
+package edu.iu.c322.customerservice.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

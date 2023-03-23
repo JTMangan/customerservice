@@ -1,4 +1,4 @@
-package edu.iu2.customerservice;
+package edu.iu.c322.customerservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
